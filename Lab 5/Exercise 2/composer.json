@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "*",
+        "google/apiclient": "2.0"
+    }
+}
